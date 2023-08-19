@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-I'm a full stack developer
+I'm a full stack developer trainee
 
 
 ## 🛠 Skills
@@ -18,19 +18,19 @@ HTML, CSS, Javasript, Nodejs
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on zuri task
+👩‍💻 I'm currently ...
 
 🧠 I'm currently learning fullstack node js
 
 👯‍♀️ I'm looking to collaborate on real projects
 
-🤔 I'm looking for help with backend languages
+🤔 I'm looking for help with js framework and backend languages
 
 💬 Ask me about my journey
 
 📫 reach me on email: muhammadkhadijato@gmail.com
 
-😄 Pronuns: "She" of course 
+😄 Pronouns: "She" of course 
 
 ⚡️ Fun fact: Google it?
 
