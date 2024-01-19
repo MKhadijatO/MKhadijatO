@@ -24,7 +24,7 @@ HTML, CSS, Javasript, Nodejs
 
 👯‍♀️ I'm looking to collaborate on real projects
 
-🤔 I'm looking for help with js framework and backend languages
+🤔 I'm on th Js and Nodejs Journey
 
 💬 Ask me about my journey
 
